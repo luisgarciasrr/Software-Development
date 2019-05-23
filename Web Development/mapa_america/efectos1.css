@@ -1,0 +1,51 @@
+body
+{
+    background-color:#cccccc;
+    color:blue;
+    font-size:14pt;
+    font-weight:bold;/*Intencidad de la letra*/
+    /*font-family:sans-serif;*/
+}
+
+.enca_chico
+{
+    background-color: blue;
+    border-radius: 10px;
+    color:white;
+    font-family: serif;
+    font-size: 16pt;
+    font-weight: bold;
+    text-shadow: 3px 3px black;
+    width:70%;
+}
+
+.enca_mediano
+{
+    background-color: blue;
+    border-radius: 10px;
+    color:white;
+    font-family: serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-shadow: 3px 3px black;
+    width:80%;
+}
+
+.enca_grande
+{
+    background-color: blue;
+    border-radius: 10px;
+    color:white;
+    font-family: serif;
+    font-size: 20pt;
+    font-weight: bold;
+    text-shadow: 3px 3px black;
+    width:90%;
+}
+
+.imagenes
+{
+    height: 250px;
+    border-radius: 30px;
+    width: 300px;
+}

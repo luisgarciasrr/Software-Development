@@ -1,0 +1,75 @@
+.opa{
+    transition: transform .2s;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+@import url(https://media0.giphy.com/media/3oEjHVSUZWvTnNxQZ2/giphy_s.gif?cid=790b76115cc3484c45766b646ba31bab&rid=giphy_s.gif);
+html { 
+  background:  url(https://media0.giphy.com/media/3oEjHVSUZWvTnNxQZ2/giphy_s.gif?cid=790b76115cc3484c45766b646ba31bab&rid=giphy_s.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+.opa:hover {
+  transform: scale(1.8);
+}
+
+.anouncier{
+    text-align: center;
+    overflow:hidden;
+    resize: none;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.campo
+{
+	background:grey;
+	border-radius:15px;
+	color:white;
+	font-size:16pt;
+	text-align:center;
+    height: auto;
+}
+
+.campo2
+{
+	background:green;
+	border-radius:15px;
+	color:white;
+	font-size:16pt;
+	text-align:center;
+    height: auto;
+}
+    
+.campo3
+{
+	background:white;
+	border-radius:15px;
+	color:white;
+	font-size:16pt;
+	text-align:center;
+    height: auto;
+    resize: none;
+}
+
+table{
+    border: none;
+}
+
+.instrucciones{
+    
+}
+
+.titulo_general{
+    
+}
+
+body {
+	background: "https://giphy.com/embed/3oEjHVSUZWvTnNxQZ2";
+	font-family: 'Permanent Marker', cursive;
+	font-size: 16px;
+}
